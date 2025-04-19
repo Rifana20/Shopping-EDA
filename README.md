@@ -33,10 +33,10 @@ The dataset includes features such as:
 
 ## 🧰 Libraries Used
 
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
+- python
+- import pandas as pd
+- import matplotlib.pyplot as plt
+- import numpy as np
 
 ---
 
