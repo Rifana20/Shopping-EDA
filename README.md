@@ -37,6 +37,9 @@ The dataset includes features such as:
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+
+---
+
 ## 💡 Key Insights
 
 - 👟 **Footwear** and 👚 **Clothing** have the highest average purchase amounts.
